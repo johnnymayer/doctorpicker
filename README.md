@@ -30,19 +30,28 @@ After running ```$npm run start```, a new Chrome browser will appear, displaying
 ## Specs
 
 * A user should be able to enter a medical issue to receive a list of doctors in the Portland area that fit the search query.
-  * Input: <img src="headacheSearch.png">
-  * Output: <img src="headacheResults.png">
+  * Input:
+
+    <img align="center" src="headacheSearch.png">
+
+  * Output:
+
+    <img align="center" src="headacheResults.png">
 
 * A user should be able to enter a name to receive a list of doctors in the Portland area that fit the search query.
-* Input: <img src="paul.png">
-* Output: <img src="paulResults.png">
+* Input:
+
+  <img align="center" src="paul.png">
+
+* Output:
+
+  <img align="center" src="paulResults.png">
 
 ## Built With
 * Atom
 * JavaScript
 * npm
 * webpack
-* karma/jasmine testing
 * Chrome
 * Postman
 
